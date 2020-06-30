@@ -1,10 +1,10 @@
-The Samsung J7 2017 (codenamed _"j7y17lte"_) are a mid-range smartphone from Samsung.
+The Samsung J7 Prime (codenamed _"on7xelte"_) are a mid-range smartphone from Samsung.
 
 It was announced and released in June 2017.
 
 ## Device specifications
 
-| Device       | Samsung Galaxy J7 2017                             |
+| Device       | Samsung Galaxy J7 Prime                             |
 | -----------: | :----------------------------------------------    |
 | SoC          | Samsung Exynos 7870                                |
 | CPU          | Octa-core, 1586 MHz, ARM Cortex-A53, 64-bit, 14 nm |
