@@ -1,4 +1,4 @@
-The Samsung J7 2017 (codenamed _"on7xelte"_) are a mid-range smartphone from Samsung.
+The Samsung J7 2017 (codenamed _"j7y17lte"_) are a mid-range smartphone from Samsung.
 
 It was announced and released in June 2017.
 
